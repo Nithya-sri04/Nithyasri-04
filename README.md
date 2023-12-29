@@ -1,9 +1,8 @@
 # Nithyasri-04
 <h1 align="center">Hi 👋, I'm Nithyasri-o4</h1>
 <h3 align="center">A passionate programming learner and coder</h3>
-<img align="right" alt="Coding" width="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJcwML5opqW7e1oFBv_FlIsO2Fr13XYEPsY2JzmljARd_BKN3DIzcGtxFhpQnziAZwZNY&usqp=CAU">
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJcwML5opqW7e1oFBv_FlIsO2Fr13XYEPsY2JzmljARd_BKN3DIzcGtxFhpQnziAZwZNY&usqp=CAU" alt="nithya-sri04" /> </p>
 
 - 🌱 I’m currently learning **Data structures and algorithms ,Nodejs and Reactjs**
 
